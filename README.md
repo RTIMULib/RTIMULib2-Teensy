@@ -8,6 +8,7 @@ RTIMULib2-Teensy is the development version of the original RTIMULib-Teensy libr
 
 ## Please note that this project is no longer active
 
+This repo is of historical interest only.
 
 ## Features
 
