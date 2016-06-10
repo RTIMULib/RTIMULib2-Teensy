@@ -6,6 +6,9 @@ RTIMULib2-Teensy is the development version of the original RTIMULib-Teensy libr
 
 *** Magnetometer calibration is critical for good performance and, with some IMU chips, meaningful fusion results will not be obtained at all unless the magnetometers have been calibrated ***
 
+## Please note that this project is no longer active
+
+
 ## Features
 
 RTIMULib2-Teensy currently supports the following IMUs:
