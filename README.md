@@ -2,8 +2,6 @@
 
 *** Magnetometer calibration is critical for good performance and, with some IMU chips, meaningful fusion results will not be obtained at all unless the magnetometers have been calibrated ***
 
-## Please note that this project is no longer active
-
-This repo is of historical interest only.
+## Please note that this project is no longer active and is of historical interest only.
 
 
